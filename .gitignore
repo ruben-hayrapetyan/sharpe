@@ -1,0 +1,10 @@
+# Book-derived content (personal-use only, not for redistribution — see NOTICE.md).
+# Regenerate locally from your own copy of the book; the OCR/segmentation pipeline
+# is not included here.
+/img/
+/data.js
+
+# Build artifact (also bundles a copy of img/ and data.js, plus the compiled binary).
+/Sharpe.app/
+
+.DS_Store
